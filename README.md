@@ -20,7 +20,8 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 * [01 - Spore](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_1-spore.git) ✅ **Concluído**
 * [02 - Baby Demo-Dog](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog.git) ✅ **Concluído**
 * [03 - Spider Monster](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_3-spider-monster) ✅ **Concluído**
-* [04 - Demo-Bat](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_4-demo-bat.git)
+* [04 - Demo-Bat](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_4-demo-bat.git) ✅ **Concluído**
+* [05 - Demo-Dog](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_5-demo-dog.git) 
 
 ---
 <img width="737" height="892" alt="recompensas" src="https://github.com/user-attachments/assets/1bb39874-2444-4478-adab-99d935339b56" />
