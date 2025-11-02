@@ -25,7 +25,7 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 * [06 - Demogorgon](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_6-demogorgon.git) ✅ **Concluído**
 * [07 - Mind-Flayer](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_7-mind-flayer.git) ✅ **Concluído**
 * [08 - Shadow Monster](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_8-shadow-monster.git) ✅ **Concluído**
-* [09 - Vecna](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_9-vecna)
+* [09 - Vecna](https://github.com/b01tech/balta-desafio-caca-aos-bugs-2025_9-vecna) ✅ **Concluído**
 
 ---
 <img width="737" height="892" alt="recompensas" src="https://github.com/user-attachments/assets/1bb39874-2444-4478-adab-99d935339b56" />
